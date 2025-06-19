@@ -15,7 +15,7 @@ Recommended Structure and Order
 • 🔄 Power Query (M Language) – Utilized for data cleaning, transformation, and model building
 • 🗺️ Microsoft Bing Maps – For geographic visualization of sales and profit distribution
 
-5.  Features/Hightlights
+4.  Features/Hightlights
 • 📌 KPI Overview Cards – Real-time summary of total sales, profit, and quantity sold
 • 🧭 Year-over-Year Comparison – Analyze performance across different years and track business growth
 • 🗂️ Category & Sub-Category Analysis – Drill down into sales by product type to identify top-performing items
